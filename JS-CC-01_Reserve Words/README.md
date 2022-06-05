@@ -23,7 +23,4 @@ At the end of the this coding challenge, students will be able to;
 
 - Make solution with JS
 
-- Make solution with Python
-
-
 <center> ⌛ Happy Coding  ✍ </center>
